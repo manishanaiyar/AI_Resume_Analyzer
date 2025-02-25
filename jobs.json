@@ -1,0 +1,825 @@
+{
+    "status": "OK",
+    "request_id": "84bd56ae-831b-48e8-a71d-9d367309a23a",
+    "parameters": {
+        "query": "software engineer, remote",
+        "page": 1,
+        "num_pages": 1,
+        "country": "us",
+        "language": "en"
+    },
+    "data": [
+        {
+            "job_id": "DRQyy29-4TkNb_DRAAAAAA==",
+            "job_title": "Fullstack Software Engineer (Remote)",
+            "employer_name": "PermitFlow",
+            "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbZ51iC6BlNo1OH47ykHqWL1qYbHHeAdwQcDNL&s=0",
+            "employer_website": null,
+            "job_publisher": "ZipRecruiter",
+            "job_employment_type": "Full-time",
+            "job_employment_types": [
+                "FULLTIME"
+            ],
+            "job_apply_link": "https://www.ziprecruiter.com/c/PermitFlow/Job/Fullstack-Software-Engineer-(Remote)/-in-Remote,US?jid=d76842510773e040&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+            "job_apply_is_direct": false,
+            "apply_options": [
+                {
+                    "publisher": "ZipRecruiter",
+                    "apply_link": "https://www.ziprecruiter.com/c/PermitFlow/Job/Fullstack-Software-Engineer-(Remote)/-in-Remote,US?jid=d76842510773e040&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Cutshort",
+                    "apply_link": "https://cutshort.io/job/-NET-Fullstack-StarkFlow-LLC-hm1Hn7Gy?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": true
+                },
+                {
+                    "publisher": "Career Vault",
+                    "apply_link": "https://www.careervault.io/remote/permitflow-10706/software/fullstack-software-engineer-remote-remote-usa-5136897?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Jobs.weekday.works",
+                    "apply_link": "https://jobs.weekday.works/bcw-technologies-limited-fullstack-engineer-(remote)?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": true
+                },
+                {
+                    "publisher": "Swooped",
+                    "apply_link": "https://app.swooped.co/job-postings/b79ee7a3-af3b-4879-ba76-afb9860a2868?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Www.biregra.com",
+                    "apply_link": "https://www.biregra.com/do/jobad/e98f74e71d739db8/9307679650/8282504725/fullstack-engineer-remote?utm_campaign=biregra_cathojobs&utm_source=cathojobs&utm_medium=referal&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Stackruit",
+                    "apply_link": "https://stackruit.com/job/uplers-9-fullstack-developer-react-lua-remote/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": true
+                }
+            ],
+            "job_description": "About PermitFlow\n\nPermitFlow's mission is to streamline and simplify construction permitting in the $1.6 trillion United States construction market. Our software reduces time to permit, supporting permitting end-to-end including permit research, application preparation, submission, and monitoring.\n\nWe've raised a $31m Series A led by Kleiner Perkins with participation from Initialized Capital, Y Combinator, Felicis Ventures, Altos Ventures, and the founders and executives from Zillow, PlanGrid, Thumbtack, Bluebeam, Uber, Procore, and more.\n\nOur team consists of architects, structural engineers, permitting experts, and workflow software specialists, all who have personally experienced the pain of permitting.\nAbout the Team\n\nWe have a lean but mighty engineering team. We've done a lot with a little, but there's much more work to be done to continue our fast-paced growth and we want you to be a part of that growth. You'll help us get there by owning end-to-end projects, talking with customers, and ultimately supporting the growth of PermitFlow. Ideally, you're based in NYC or willing to relocate for hybrid work. We're currently hybrid in-person 3 days/week in our NYC office.\n\n\u2022 What You'll Do:\n\nYou'll work alongside the CTO and engineering team to develop the first construction permit application and management platform for builders. Our current team consists of engineers from Uber, Amazon, NerdWallet, OnDeck, Harvard, Stanford, and more. We are background and experience agnostic, and we encourage anyone to apply if they are passionate about joining a small team and working to solve a real-world pain point.\n\u2022 Working directly with the founders and users to define the product and engineering roadmap.\n\u2022 Owning and shipping features from inception to implementation.\n\u2022 Developing, iterating, and refining extensible and flexible workflow tooling for permitting.\n\u2022 Build exceptional user experiences that allow users to easily apply, track, and manage their permitting.\n\u2022 Mentoring engineers and others around you to build a culture of technical excellence.\n\nOur Tech Stack:\n\u2022 React\n\u2022 Typescript\n\u2022 Node.js\n\u2022 Postgres\nQualifications & Fit:\n\u2022 Strong experience in professional fullstack development, ideally some of which you've spent in startups\n\u2022 Significant experience working within our tech stack, which is listed above\n\u2022 You sweat the important details and strive for excellence in your work\n\u2022 Experience owning technically challenging and demanding cross-functional projects\n\u2022 A record of identifying valuable projects, communicating the strategy for them, and executing on them autonomously\n\u2022 A customer-first mindset and an interest in talking with customers to make sure what we're building is a polished product meets their needs\n\u2022 Habit of introspection and understanding what's helped you be successful in the past\nBenefits:\n\u2022 Equity packages\n\u2022 Competitive Salary\n\u2022 100% Paid health, dental & vision coverage\n\u2022 Company-issued laptop.\n\u2022 Home office & equipment stipend\n\u2022 Team building events\n\u2022 Unlimited PTO\n\nInterview Process:\n\u2022 20 minute recruiter screen\n\u2022 Take-home coding assessment (2-3 hours)\n\u2022 1 hour live-coding session with one of our engineers\n\u2022 Final interview with Sam, our CTO and co-founder\n\u2022 Reference checks\n\u2022 Offer!",
+            "job_is_remote": true,
+            "job_posted_at": null,
+            "job_posted_at_timestamp": null,
+            "job_posted_at_datetime_utc": null,
+            "job_location": null,
+            "job_city": null,
+            "job_state": null,
+            "job_country": null,
+            "job_latitude": null,
+            "job_longitude": null,
+            "job_benefits": null,
+            "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DDRQyy29-4TkNb_DRAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+            "job_min_salary": 130000,
+            "job_max_salary": 220000,
+            "job_salary_period": "YEAR",
+            "job_highlights": {},
+            "job_onet_soc": "15113300",
+            "job_onet_job_zone": "4"
+        },
+        {
+            "job_id": "Bj1987UZuCEAcAEMAAAAAA==",
+            "job_title": "Senior Software Engineer - Backend/Python - USA Only (100% Remote)",
+            "employer_name": "Close",
+            "employer_logo": null,
+            "employer_website": null,
+            "job_publisher": "We Work Remotely",
+            "job_employment_type": "Full-time",
+            "job_employment_types": [
+                "FULLTIME"
+            ],
+            "job_apply_link": "https://weworkremotely.com/remote-jobs/close-senior-software-engineer-backend-python-usa-only-100-remote?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+            "job_apply_is_direct": false,
+            "apply_options": [
+                {
+                    "publisher": "We Work Remotely",
+                    "apply_link": "https://weworkremotely.com/remote-jobs/close-senior-software-engineer-backend-python-usa-only-100-remote?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Monster",
+                    "apply_link": "https://www.monster.com/job-openings/java-backend-engineer-100-remote-mountain-view-ca--8f335fc7-1256-41f0-92af-d08663560a3c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Mysmartpros",
+                    "apply_link": "https://www.mysmartpros.com/tuition/job/close-software-engineer-backend-python-100-remote/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Winsomejobs",
+                    "apply_link": "https://winsomejobs.net/job/229096?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Open To Work Remote",
+                    "apply_link": "https://www.opentoworkremote.com/view/1319349?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "US Remote Jobs Apply",
+                    "apply_link": "https://rjs.victorytuitions.in/job/senior-software-engineer-backend-python-usa-only-100-remote/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                }
+            ],
+            "job_description": "About Us\nClose is a bootstrapped, profitable, 100% remote, ~100 person team of thoughtful individuals who prioritize taking ownership and making a meaningful impact. We\u2019re eager to make a product our customers fall in love with over and over again.\n\nWe \ud83d\udc9b small scaling businesses. Since 2013, we\u2019ve been building a CRM that focuses on better communication, without the hassle of manual data entry or a complex UI. We are out to supercharge sales productivity with the most modern, thoughtfully designed, all-in-one, communication-focused CRM.\n\nOur backend tech stack consists primarily of Python Flask web apps with our TaskTiger scheduler handling many of the backend asynchronous task processing chores. Our data stores include MongoDB, PostgreSQL, Elasticsearch, and Redis. The underlying infrastructure runs on AWS using a combination of managed services like EKS, MSK, RDS and ElasticCache and non-managed services running on EC2 instances. We have CI/CD pipelines that build Docker images, run automated tests and deploy to Kubernetes clusters. We also use these images in our local development environment allowing coding locally against all of our services. We have a well-documented public API that is consumed by our front-end JavaScript app as well as numerous integrations. Our infrastructure is heavily automated using Terraform, Ansible and other AWS tools.\n\nOur product development process is inspired by Shape Up. We love open sourcing our code and ideas on our GitHub and on The Making of Close, our behind-the-scenes Product & Engineering blog. Check out our open source projects like SocketShark, TaskTiger, LimitLion and ciso8601.\n\nAbout the Role\nYou will be joining one of our six cross-functional teams. These are the CRM, Admin & Onboarding, Conversations, Messaging & Scheduling, Automations & Integrations and Data Insights teams. You will be regularly collaborating with other backend & frontend engineers, product managers, designers, and other teams here at Close.\n\nAbout You\nWe\u2019re looking for high achieving, full-time Software Engineers to join our engineering team. Someone who has a good understanding in web technologies and wants to help design, implement, launch, and scale major systems and user-facing features.\n\nYou're comfortable working in a fast-paced environment with a small and talented team where you're supported in your efforts to grow professionally. You're able to manage your time well, communicate effectively, and collaborate in a fully distributed team.\n\nCome help us with projects like...\n\u2022 Conceiving, designing, building, and launching new user-facing features\n\u2022 Implementing new AI features to turbocharge our customers\u2019 daily tasks\n\u2022 Improving the performance and scalability of our GraphQL and REST API\n\u2022 Improving how we sync millions of sales emails and calendar events each month\n\u2022 Working with Twilio's API, WebSockets, and WebRTC to improve our calling features\n\u2022 Building user-facing analytics features that provide actionable insights based on sales activity data\n\u2022 Improving our Elasticsearch-backed powerful search features\n\u2022 Improving our internal messaging infrastructure using streaming technologies like Kafka and Redis\n\u2022 Building new and enhancing existing integrations with other SaaS platforms like Google\u2019s G Suite, Zapier, and web conferencing providers\n\u2022 Enhancing our web app with real-time updates powered by GraphQL Subscriptions\n\u2022 Leveraging the latest AI LLMs from providers like OpenAI, Groq and AssemblyAI\n\nHelp manage our ever growing data processing needs\u2026\n\u2022 Billions of Mongo documents\n\u2022 Millions and millions of rows of PostgreSQL data\n\u2022 55 Terabytes of logs / month\n\u2022 500 billion OTEL spans over the last 30 days\n\u2022 10+ million events / day\n\u2022 Tens of thousands of docker containers\n\u2022 7 million minutes of call recordings / month\n\u2022 Petabytes / month of network traffic\n\nRequirements...\n\u2022 Senior 1 & 2 level candidates should have 5+ years of experience building modern back-end systems. Staff level candidates should have 8+ years of experience. Mid-level candidates should have ~3 years of similar experience and be eager to level up with the right opportunity.\n\u2022 Professional Python experience is preferred but a working knowledge of Python with additional experience in other languages is acceptable if you have a desire to work with Python.\n\u2022 You have built web APIs that were Internet facing or supported other high volume loads.\n\u2022 You have hands-on production experience working with MongoDB, PostgreSQL, Elasticsearch, or similar data stores.\n\u2022 You have experience designing, scaling, debugging, and optimizing systems to make them fast and reliable.\n\u2022 You have participated in code reviews and provided overall code quality suggestions to help maintain the structure and quality of the codebase.\n\u2022 You care about the craftsmanship of the code and systems you produce.\n\u2022 Located in the USA (lower 48 timezones).\n\nBonus point if you have\n\u2022 Contributed open source code related to our tech stack.\n\u2022 Led small project teams building and launching features.\n\u2022 Built B2B SaaS products.\n\u2022 Implemented features that leveraged AI to deliver unimaginable new product capabilities.\n\u2022 Worked with complex architectures that support multiple APIs (e.g. REST, GQL, WebSockets) as well as async task and event processing frameworks.\n\n\ud83c\udf0f Why Close?\n\u2022 Watch our most recent culture video featuring our annual team retreat in Italy\n\u2022 100% remote company\n\u2022 5 weeks PTO + Winter & Summer Holiday Breaks with 2 additional PTO days for every year with the company\n\u2022 1 month paid sabbatical every 5 years\n\u2022 Paid parental leave\n\u2022 Medical, Dental, Vision with HSA option (US residents)\n\u2022 401k matching at 6% (US residents)\n\u2022 Dependent care FSA (US residents)\n\u2022 Our story and team \ud83d\ude80\n\nOur Values\n\u2022 Build a house you want to live in -- Examine long-term thinking and action\n\u2022 No BS -- Practice transparency and honesty, especially when it\u2019s hard\n\u2022 Invest in each other -- Build successful relationships with your coworkers and customers\n\u2022 Discipline equals freedom -- Keep your word to yourself and others\n\u2022 Strive for greatness -- Constantly challenge yourself and others\n\nHow We Work Together\n\u2022 Productivity, Quality & Impact: We don\u2019t track hours. We trust you\u2019re an adult and know best how to prioritize, meet your goals and contribute at a high level.\n\u2022 Asynchronous communication & collaboration: We have team members all over the world. We don\u2019t expect anyone to work untraditional hours, that means our default is async. Most teams have 2-5 hours of internal meetings weekly.\n\u2022 Appreciation for Deep Work: *During your normal work day, not after a day of meetings*.\n\u2022 Autonomy & Freedom: Create a work environment that is sustainable for you. We place a high amount of trust and responsibility with our team members from the start.\n\nWe are looking for US-based Software Engineers to join our team. Base salary range for Senior I & II is $140,000 to $210,000.",
+            "job_is_remote": true,
+            "job_posted_at": null,
+            "job_posted_at_timestamp": null,
+            "job_posted_at_datetime_utc": null,
+            "job_location": "United States",
+            "job_city": null,
+            "job_state": null,
+            "job_country": "US",
+            "job_latitude": 38.794595199999996,
+            "job_longitude": -106.5348379,
+            "job_benefits": [
+                "dental_coverage",
+                "paid_time_off",
+                "health_insurance"
+            ],
+            "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DBj1987UZuCEAcAEMAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+            "job_min_salary": null,
+            "job_max_salary": null,
+            "job_salary_period": "YEAR",
+            "job_highlights": {
+                "Qualifications": [
+                    "We\u2019re looking for high achieving, full-time Software Engineers to join our engineering team",
+                    "Someone who has a good understanding in web technologies and wants to help design, implement, launch, and scale major systems and user-facing features",
+                    "You're comfortable working in a fast-paced environment with a small and talented team where you're supported in your efforts to grow professionally",
+                    "You're able to manage your time well, communicate effectively, and collaborate in a fully distributed team",
+                    "55 Terabytes of logs / month",
+                    "Petabytes / month of network traffic",
+                    "Senior 1 & 2 level candidates should have 5+ years of experience building modern back-end systems",
+                    "Staff level candidates should have 8+ years of experience",
+                    "Mid-level candidates should have ~3 years of similar experience and be eager to level up with the right opportunity",
+                    "You have built web APIs that were Internet facing or supported other high volume loads",
+                    "You have hands-on production experience working with MongoDB, PostgreSQL, Elasticsearch, or similar data stores",
+                    "You have experience designing, scaling, debugging, and optimizing systems to make them fast and reliable",
+                    "You have participated in code reviews and provided overall code quality suggestions to help maintain the structure and quality of the codebase",
+                    "You care about the craftsmanship of the code and systems you produce",
+                    "Located in the USA (lower 48 timezones)",
+                    "Contributed open source code related to our tech stack",
+                    "Led small project teams building and launching features",
+                    "Built B2B SaaS products",
+                    "Implemented features that leveraged AI to deliver unimaginable new product capabilities",
+                    "Worked with complex architectures that support multiple APIs (e.g. REST, GQL, WebSockets) as well as async task and event processing frameworks",
+                    "No BS -- Practice transparency and honesty, especially when it\u2019s hard"
+                ],
+                "Benefits": [
+                    "Millions and millions of rows of PostgreSQL data",
+                    "10+ million events / day",
+                    "Tens of thousands of docker containers",
+                    "7 million minutes of call recordings / month",
+                    "Watch our most recent culture video featuring our annual team retreat in Italy",
+                    "100% remote company",
+                    "5 weeks PTO + Winter & Summer Holiday Breaks with 2 additional PTO days for every year with the company",
+                    "1 month paid sabbatical every 5 years",
+                    "Paid parental leave",
+                    "Medical, Dental, Vision with HSA option (US residents)",
+                    "401k matching at 6% (US residents)",
+                    "Dependent care FSA (US residents)",
+                    "Our story and team \ud83d\ude80",
+                    "Invest in each other -- Build successful relationships with your coworkers and customers",
+                    "Productivity, Quality & Impact: We don\u2019t track hours",
+                    "We trust you\u2019re an adult and know best how to prioritize, meet your goals and contribute at a high level",
+                    "Appreciation for Deep Work: *During your normal work day, not after a day of meetings*",
+                    "Autonomy & Freedom: Create a work environment that is sustainable for you",
+                    "Base salary range for Senior I & II is $140,000 to $210,000"
+                ],
+                "Responsibilities": [
+                    "These are the CRM, Admin & Onboarding, Conversations, Messaging & Scheduling, Automations & Integrations and Data Insights teams",
+                    "You will be regularly collaborating with other backend & frontend engineers, product managers, designers, and other teams here at Close",
+                    "Conceiving, designing, building, and launching new user-facing features",
+                    "Implementing new AI features to turbocharge our customers\u2019 daily tasks",
+                    "Improving the performance and scalability of our GraphQL and REST API",
+                    "Improving how we sync millions of sales emails and calendar events each month",
+                    "Working with Twilio's API, WebSockets, and WebRTC to improve our calling features",
+                    "Building user-facing analytics features that provide actionable insights based on sales activity data",
+                    "Improving our Elasticsearch-backed powerful search features",
+                    "Improving our internal messaging infrastructure using streaming technologies like Kafka and Redis",
+                    "Building new and enhancing existing integrations with other SaaS platforms like Google\u2019s G Suite, Zapier, and web conferencing providers",
+                    "Enhancing our web app with real-time updates powered by GraphQL Subscriptions",
+                    "Leveraging the latest AI LLMs from providers like OpenAI, Groq and AssemblyAI",
+                    "Help manage our ever growing data processing needs\u2026"
+                ]
+            },
+            "job_onet_soc": "15113200",
+            "job_onet_job_zone": "4"
+        },
+        {
+            "job_id": "tJ0J_T-Sg0W9oM53AAAAAA==",
+            "job_title": "Founding Software Engineer (Full-Stack, Remote)",
+            "employer_name": "Glass Health",
+            "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb9VRdxlVEZx6FuKRZJoi7uByUg8atjseKyYfL&s=0",
+            "employer_website": null,
+            "job_publisher": "Y Combinator",
+            "job_employment_type": "Full-time",
+            "job_employment_types": [
+                "FULLTIME"
+            ],
+            "job_apply_link": "https://www.ycombinator.com/companies/glass-health/jobs/lbhTrFq-founding-software-engineer-full-stack-remote?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+            "job_apply_is_direct": false,
+            "apply_options": [
+                {
+                    "publisher": "Y Combinator",
+                    "apply_link": "https://www.ycombinator.com/companies/glass-health/jobs/lbhTrFq-founding-software-engineer-full-stack-remote?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Jobs",
+                    "apply_link": "https://jobs.ashbyhq.com/nextdata/b4fe2a98-a5d6-4934-bf3b-7001cb59f62e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "DailyRemote",
+                    "apply_link": "https://dailyremote.com/remote-job/founding-software-engineer-full-stack-remote-3199141?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                }
+            ],
+            "job_description": "About Glass Health\n\nGlass Health was physician co-founded because we believe that technology should be fully leveraged to optimize the practice of medicine and improve patient care. We\u2019re building the better tools we as physicians want, so we can spend more quality time with our patients.\n\nTo this end, we have set out to empower clinicians with the best-in-class AI for clinical decision support (CDS).\n\nWe aim to increase diagnostic accuracy, improve the implementation of evidence-based medicine, accelerate the achievement of health equity, eliminate clinician burnout, and improve patient outcomes worldwide.\n\nAbout the role:\n\nWe\u2019re looking for experienced, problem-solving engineers across the stack (Product, Full-Stack, Backend, Applied AI/LLM) to build new products and grow existing products. Our success depends on our ability to quickly iterate on products, while also ensuring that they are performant and reliable. You\u2019ll work in a deeply iterative, collaborative, fast-paced environment to bring our technology to tens of thousands of users, and ensure it\u2019s delivered with finesse and reliability in mind.\n\nWhile we have a head-start, this is a Founding engineering role - you will have expanded ownership, a defining impact on the success of the company, and play a crucial part in shaping the future of healthcare.\n\nDepending on the role, you will:\n\u2022 Design and build the development and production platforms that power our new products, enabling reliability and security at scale\n\u2022 Own the development of new user-facing generative AI features and product experiences end-to-end\n\u2022 Partner with researchers, engineers, product managers, and designers to bring new features and research capabilities to the world\n\u2022 Accelerate engineering productivity by empowering your fellow engineers with excellent tooling and systems\n\u2022 Help create a diverse, equitable, and inclusive culture that makes all feel welcome while enabling radical candor and the challenging of group think\n\u2022 Like all other teams, we are responsible for the reliability of the systems we build. This includes an on-call rotation to respond to critical incidents as needed\n\nYou might thrive in this role, if you:\n\u2022 Have 5+ years of engineering experience in various tech environments, including product-driven companies.\n\u2022 Have experience with TypeScript/React on the frontend, Python on the backend, adaptability, and a drive to learn new technologies.\n\u2022 Are comfortable taking ownership in an ambitious, fast-paced and diverse startup environment.\n\u2022 Possess significant experience in designing, building, and scaling production systems to deliver new product capabilities and manage increasing demand.\n\u2022 Are committed to creating outstanding user experiences and take pride in developing solutions that meet customer needs.\n\u2022 You are excited about and stay up-to-date with rapidly advancing changes in AI and LLM technology.\n\u2022 Demonstrate humility, a collaborative spirit, and a willingness to support your colleagues to ensure team success.\n\u2022 Take ownership of challenges from start to finish, and are proactive in learning new skills as needed.\n\u2022 Build tools to accelerate your own (and your teammates\u2019) workflows, but only when off-the-shelf solutions won\u2019t do.\n\u2022 Have experience in startup environments, either as a founder or an early-stage engineer (bonus points, not required).\n\u2022 Are familiar with healthcare, EHR, HIPAA & other healthcare regulatory structures (bonus points, not required).\n\nTech Stack\n\u2022 LLMs: OpenAI & similar\n\u2022 Backend: Python, Django, Postgres\n\u2022 Frontend: React, Typescript\n\u2022 Infrastructure: GCP, Docker\n\nCompensation, Benefits and Perks\n\u2022 Flexible work hours & generous PTO\n\u2022 High autonomy and support from a collaborative team\n\u2022 New Macbook Pro\n\u2022 Work from home stipend\n\u2022 Personal development stipend\n\nWhy join Glass?\n\u2022 You dream of improving healthcare with us for both patients and physicians.\n\u2022 You want to join a company that\u2019s always been focused on improving patient care. Since 2022, Glass has already helped physicians-in-training and physicians with better tools including our DDx, Clinical Plan and Glass Notebooks. We have just launched our game-changing AI CDS to provide doctors with real-time suggestions and insights.\n\u2022 You\u2019re passionate to serve our growing, immensely loving and respectful community, including 150+ physicians & physicians-in-training.\n\u2022 Be on the bleeding-edge of AI. We strive to be the best-in-class AI CDS, and we\u2019ll be harnessing and developing novel approaches along the way.\n\u2022 We are at an inflection point on our startup journey. We\u2019ve raised 6.5M (including 5M seed round) from:\n\u2022 Top-tier investors, such as YCombinator and Initialized\n\u2022 Our first health system partner, Kaiser Permanente Mid Atlantic\n\u2022 Top healthcare CEOs, including Tom Lee of One Medical, Heather Hasson & Trina Spear of FIGS, Connor Landgraf of Eko Health, Othman Lararki of Color Genomics, and Dan Siroker of Rewind and Optimizely. We will raise our Series A this year.\n\nInterview process\n\u2022 Initial background/light technical interview (45 mins)\n\u2022 Live coding challenge (1 hr)\n\u2022 Final interview: System design problem + realistic work simulation challenge (live; ~1.5-2 hr)\n\nGlass Health is an equal opportunity employer. We celebrate our diversity and are committed to creating an equitable and inclusive team environment that reflects the patient communities we serve. We especially encourage applicants from historically under-represented and under served communities to apply.\n\nFor US Based Candidates: Pursuant to the San Francisco Fair Chance Ordinance, we will consider qualified applicants with arrest and conviction records.",
+            "job_is_remote": true,
+            "job_posted_at": null,
+            "job_posted_at_timestamp": null,
+            "job_posted_at_datetime_utc": null,
+            "job_location": null,
+            "job_city": null,
+            "job_state": null,
+            "job_country": null,
+            "job_latitude": null,
+            "job_longitude": null,
+            "job_benefits": null,
+            "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DtJ0J_T-Sg0W9oM53AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+            "job_min_salary": 120000,
+            "job_max_salary": 210000,
+            "job_salary_period": "YEAR",
+            "job_highlights": {},
+            "job_onet_soc": "15113300",
+            "job_onet_job_zone": "4"
+        },
+        {
+            "job_id": "rvt2L3XQbciiEhiEAAAAAA==",
+            "job_title": "Senior Software Engineer I - Full Stack (Remote Eligible)",
+            "employer_name": "Smartsheet",
+            "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ87cPeKGU7h1CnpWCD0HoiPnsvZgg3uIpJXLPz&s=0",
+            "employer_website": null,
+            "job_publisher": "Wellfound",
+            "job_employment_type": "Full-time",
+            "job_employment_types": [
+                "FULLTIME"
+            ],
+            "job_apply_link": "https://wellfound.com/jobs/3161305-senior-software-engineer-i-full-stack-remote-eligible?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+            "job_apply_is_direct": true,
+            "apply_options": [
+                {
+                    "publisher": "Wellfound",
+                    "apply_link": "https://wellfound.com/jobs/3161305-senior-software-engineer-i-full-stack-remote-eligible?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": true
+                },
+                {
+                    "publisher": "ZipRecruiter",
+                    "apply_link": "https://www.ziprecruiter.com/c/Smartsheet/Job/Senior-Software-Engineer-I-Full-Stack-(Remote-Eligible)/-in-Bellevue,WA?jid=1421083466c78969&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Indeed",
+                    "apply_link": "https://www.indeed.com/viewjob?jk=a94b8fa0df534e1d&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": true
+                },
+                {
+                    "publisher": "Built In Seattle",
+                    "apply_link": "https://www.builtinseattle.com/job/senior-software-engineer-i-full-stack-remote-eligible/99270?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Glassdoor",
+                    "apply_link": "https://www.glassdoor.com/job-listing/senior-software-engineer-i-full-stack-remote-eligible-smartsheet-JV_IC1150442_KO0,53_KE54,64.htm?jl=1009543654104&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": true
+                },
+                {
+                    "publisher": "Jobgether",
+                    "apply_link": "https://jobgether.com/offer/6748cdce08d932d86b1166d0-senior-software-engineer-i---full-stack-remote-eligible?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "LinkedIn",
+                    "apply_link": "https://www.linkedin.com/jobs/view/senior-software-engineer-i-full-stack-remote-eligible-at-smartsheet-4086979667?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Jooble",
+                    "apply_link": "https://jooble.org/jdp/742514460383912730?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                }
+            ],
+            "job_description": "Smartsheet is a tech company with a human story to tell. We\u2019re here to empower teams to manage projects, automate workflows, and rapidly build new secure solutions, using simple no-code tools. We\u2019re revolutionaries \u2013 so for us changing the way the world works is all in a day\u2019s work.\n\nIn 2005, Smartsheet was founded on the idea that teams and millions of people worldwide deserve a better way to deliver their very best work. Today, we deliver a leading cloud-based platform for work execution, empowering organizations to plan, capture, track, automate, and report on work at scale, resulting in more efficient processes and better business outcomes.\n\nYou will report to an Engineering Leader located in our Bellevue, WA office, or you may work remotely from anywhere in the US where Smartsheet is a registered employer.\n\nYou Will:\n\u2022 Build scalable back-end services for the next generation of applications at Smartsheet (Kotlin, Java)\n\u2022 Solve challenging distributed systems problems and work with modern cloud infrastructure (AWS, Kubernetes)\n\u2022 Create and promote modern web UI development\n\u2022 Be a technical leader on our team, implementing features in React and integrating with back-end Kotlin/Java services running on AWS\n\u2022 Take part in code reviews and architectural discussions as you work with other software engineers and product managers\n\u2022 Take a leading role in designing key areas of scalable, performant systems\n\u2022 Mentor junior engineers on code quality and other industry best practices\n\u2022 Forge a strong partnership with product management and other key areas of the business\n\u2022 Enhance existing application code with new features and strike a balance when making technical decisions (build vs refactor vs simplify)\n\nYou Have:\n\u2022 5+ years software development experience building highly scalable, highly available applications\n\u2022 5+ years of programming experience with full stack technologies such Java, Kotlin, or React\n\u2022 2+ years of experience with cloud technologies (AWS, Azure, etc.)\n\u2022 Experience developing, documenting, and supporting REST APIs\n\u2022 Experience with modern web technologies, front-end frameworks and integrating with back-end services\n\u2022 A degree in Computer Science, Engineering, or a related field or equivalent practical experience\n\u2022 Legally eligible to work in the U.S. on an ongoing basis\n\nCurrent US Perks & Benefits:\n\u2022 HSA, 100% employer-paid premiums, or Buy-up medical/vision and dental coverage options for full-time employees\n\u2022 401k Match to help you save for your future (50% of your contribution up to the first 6% of your eligible pay)\n\u2022 Monthly stipend to support your work and productivity\n\u2022 Flexible Time Away Program, plus Sick Time Off\n\u2022 US employees are automatically covered under Smartsheet-sponsored life insurance, short-term, and long-term disability plans\n\u2022 US employees receive 12 paid holidays per year\n\u2022 Up to 24 weeks of Parental Leave\n\u2022 Personal paid Volunteer Day to support our community\n\u2022 Opportunities for professional growth and development including access to Udemy online courses\n\u2022 Company Funded Perks, including a counseling membership, local retail discounts, and your own personal Smartsheet account\n\u2022 Teleworking options from any registered location in the U.S. (role specific)\n\nSmartsheet provides a competitive base salary range for roles that may be hired in different geographic areas we are licensed to operate our business from. Actual compensation is determined by several factors including, but not limited to, level of professional, educational experience, skills, and specific candidate location. In addition, this role will be eligible for a market competitive incentive opportunity.\n\nUS Base Salary Pay Range$140,000\u2014$200,000 USD\n\nGet to Know Us:\n\nAt Smartsheet, we\u2019ve created a place where everyone is welcome \u2014 people from all over the world, all backgrounds, all ages, all colors, and all beliefs working side by side. Here, everyone can make a difference and empower others to do the same. You\u2019re encouraged to apply even if your experience doesn\u2019t precisely match our job description\u2014if your career path has been nontraditional, that will set you apart. At Smartsheet, we empower everyone, everywhere to change the way the world works\u2014join us!\n\nEqual Opportunity Employer:\n\nSmartsheet is an Equal Opportunity (EEO) employer committed to fostering an inclusive environment with the best employees. It is our policy to provide equal employment opportunities to all qualified applicants in accordance with applicable laws in the US, UK, Australia, Germany, Costa Rica, Japan, and Bulgaria. All qualified applicants will receive consideration without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, protected veteran or disabled status, or genetic information.\n\nIf there are preparations we can make to help ensure you have a comfortable and positive interview experience, please let us know.\n\n#LI-Remote",
+            "job_is_remote": true,
+            "job_posted_at": null,
+            "job_posted_at_timestamp": null,
+            "job_posted_at_datetime_utc": null,
+            "job_location": "Bellevue, WA",
+            "job_city": "Bellevue",
+            "job_state": "Washington",
+            "job_country": "US",
+            "job_latitude": 47.6101497,
+            "job_longitude": -122.20151589999999,
+            "job_benefits": [
+                "dental_coverage",
+                "health_insurance"
+            ],
+            "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Drvt2L3XQbciiEhiEAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+            "job_min_salary": 140000,
+            "job_max_salary": 200000,
+            "job_salary_period": "YEAR",
+            "job_highlights": {
+                "Qualifications": [
+                    "5+ years software development experience building highly scalable, highly available applications",
+                    "5+ years of programming experience with full stack technologies such Java, Kotlin, or React",
+                    "2+ years of experience with cloud technologies (AWS, Azure, etc.)",
+                    "Experience developing, documenting, and supporting REST APIs",
+                    "Experience with modern web technologies, front-end frameworks and integrating with back-end services",
+                    "A degree in Computer Science, Engineering, or a related field or equivalent practical experience",
+                    "Legally eligible to work in the U.S. on an ongoing basis"
+                ],
+                "Benefits": [
+                    "HSA, 100% employer-paid premiums, or Buy-up medical/vision and dental coverage options for full-time employees",
+                    "401k Match to help you save for your future (50% of your contribution up to the first 6% of your eligible pay)",
+                    "Monthly stipend to support your work and productivity",
+                    "Flexible Time Away Program, plus Sick Time Off",
+                    "US employees are automatically covered under Smartsheet-sponsored life insurance, short-term, and long-term disability plans",
+                    "US employees receive 12 paid holidays per year",
+                    "Up to 24 weeks of Parental Leave",
+                    "Personal paid Volunteer Day to support our community",
+                    "Opportunities for professional growth and development including access to Udemy online courses",
+                    "Company Funded Perks, including a counseling membership, local retail discounts, and your own personal Smartsheet account",
+                    "Teleworking options from any registered location in the U.S. (role specific)",
+                    "Smartsheet provides a competitive base salary range for roles that may be hired in different geographic areas we are licensed to operate our business from",
+                    "Actual compensation is determined by several factors including, but not limited to, level of professional, educational experience, skills, and specific candidate location",
+                    "In addition, this role will be eligible for a market competitive incentive opportunity",
+                    "US Base Salary Pay Range$140,000\u2014$200,000 USD"
+                ],
+                "Responsibilities": [
+                    "Build scalable back-end services for the next generation of applications at Smartsheet (Kotlin, Java)",
+                    "Solve challenging distributed systems problems and work with modern cloud infrastructure (AWS, Kubernetes)",
+                    "Create and promote modern web UI development",
+                    "Be a technical leader on our team, implementing features in React and integrating with back-end Kotlin/Java services running on AWS",
+                    "Take part in code reviews and architectural discussions as you work with other software engineers and product managers",
+                    "Take a leading role in designing key areas of scalable, performant systems",
+                    "Mentor junior engineers on code quality and other industry best practices",
+                    "Forge a strong partnership with product management and other key areas of the business",
+                    "Enhance existing application code with new features and strike a balance when making technical decisions (build vs refactor vs simplify)"
+                ]
+            },
+            "job_onet_soc": "15113300",
+            "job_onet_job_zone": "4"
+        },
+        {
+            "job_id": "lwX1SZVs11tOQE4mAAAAAA==",
+            "job_title": "Senior Software Engineer (Remote)",
+            "employer_name": "First Help Financial",
+            "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkB5nEm-J4pqEYpkQMVIiOd2Di17pT5Ca40pLv&s=0",
+            "employer_website": null,
+            "job_publisher": "Jobs By Workable",
+            "job_employment_type": "Full-time",
+            "job_employment_types": [
+                "FULLTIME"
+            ],
+            "job_apply_link": "https://apply.workable.com/firsthelpfinancial/j/E9A5B8E635/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+            "job_apply_is_direct": true,
+            "apply_options": [
+                {
+                    "publisher": "Jobs By Workable",
+                    "apply_link": "https://apply.workable.com/firsthelpfinancial/j/E9A5B8E635/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": true
+                },
+                {
+                    "publisher": "Y Combinator",
+                    "apply_link": "https://www.ycombinator.com/companies/apollo-io/jobs/vRi7OomEN-senior-fullstack-software-engineer-remote?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Cutshort",
+                    "apply_link": "https://cutshort.io/job/Senior-Software-Engineer-Vamstar-JBoMxXQW?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": true
+                },
+                {
+                    "publisher": "Career Vault",
+                    "apply_link": "https://www.careervault.io/remote/runzero-26121/software/senior-software-engineer-go-remote-remote-usa-5170880?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "DailyRemote",
+                    "apply_link": "https://dailyremote.com/remote-job/senior-front-end-software-engineer-remote-3442649?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "SitePoint",
+                    "apply_link": "https://www.sitepoint.com/jobs-for-developers/match-group/senior-software-engineer-remote-1690671/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Ladders",
+                    "apply_link": "https://www.theladders.com/job/senior-front-end-software-engineer-remote-bask-health-virtual-travel_78248740?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "DecisionWanted.com",
+                    "apply_link": "https://decisionwanted.com/jobs/455383/senior-software-engineer-remote?lang=en&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": true
+                }
+            ],
+            "job_description": "First Help Financial (FHF) is a fast-growing and culturally diverse company in the U.S. We provide auto loans to the underserved and care for our customers and partners with exceptional service. Through flexible financing options and tri-lingual support, we offer consumers an easier way to finance their first car. We lend to and support our portfolio which has consistently grown 30%+ each year over the last nine years.\n\nHere you will find hard-working colleagues who come from over 20 countries. We hold ourselves to the highest standards of professionalism but also enjoy our work. Our culture and benefits are geared towards making you successful in life and comfortable at work.\n\nYour Title: Senior Software Engineer\n\nYour Location: Remote/Anywhere in the U.S.\n\nYou Report To: Engineering Manager\n\nYour Compensation: $120k - $150k base plus a bonus, depending upon experience\n\nLearn more about our awesome Engineering team\n\nAbout the Opportunity:\n\nFirst Help Financial, voted and certified as a \"Great Place to Work\" by our workforce for three years in a row, is adding a new partner to our Engineering department to accommodate our remarkable growth!\n\nWhat you will do:\n\nYour responsibilities include but are not limited to:\n\u2022 Designs and develops major functional or performance enhancements for existing products or produces new software products or tools.\n\u2022 Becoming a subject matter expert for our Loan Origination Systems with an ability to explain and improve complicated code bases and assist with troubleshooting complex problems\n\u2022 Take a lead role in steering architecture to scale technology and process to a high scale and quality.\n\u2022 Work closely with stakeholders in various internal groups to help balance delivery speed and quality.\n\u2022 Mentor and train junior developers to maximize team velocity.\n\u2022 You will be a developer on an Agile team, working closely with Product Owner, Scrum Master, and other developers, to review and qualify business requirements, functional specifications, use-cases, and test plans.\n\u2022 Drive full cycle end to end development from design through implementation.\n\u2022 Design, prototype and author code for software components and applications. Continue to iterate to optimize customer experience\n\nWhat you bring:\n\u2022 Minimum of bachelor\u2019s degree in computer science or related field. Master\u2019s is a plus.\n\u2022 5+ years\u2019 experience in developing world-class Microservices using Apache Spring Boot.\n\u2022 5+ years\u2019 experience Java development skills in building large-scale web applications and APIs using object-oriented principles.\n\u2022 5+ years\u2019 experience with Spring Framework, ORM (Hibernate, JPA).\n\u2022 5+ years\u2019 experience with Oracle SQL and MS SQL.\n\u2022 3+ years\u2019 experience Python development skills building and maintaining scalable applications\n\u2022 Candidates should have hands-on experience working within the AWS ecosystem. This includes a strong proficiency in creating and debugging serverless (lambda) functions and frameworks.\n\u2022 Familiarity with System Design: A solid understanding of system design is essential. The ideal candidate should be capable of designing and developing scalable infrastructure components that align with the organization's goals.\n\u2022 Familiarity, and exposure to leading JavaScript frameworks including Angular, React, or similar.\n\u2022 Good knowledge of DevOps & collaboration tools: CircleCI, Jenkins, GIT, Sonarqube, etc.\n\u2022 Experience with Cloud Technologies like AWS S3, RDS, ELB, etc.\n\u2022 Experience with containers and developing containerized applications using Docker.\n\u2022 Experience with deconstructing complex problems into modular simple solutions.\n\u2022 Strong understanding and discipline around software test approach.\n\u2022 Strong sense of dedication and teamwork toward a goal\n\u2022 Full-Stack development experience.\n\u2022 Experience in Financial Services Industry.\n\nFHF Benefits\u2026\n\u2022 Great Perks \u2013 We offer generous salaries, competitive health and welfare benefits (medical, dental, vision, LTD/STD, Identity theft, paid parental leave and much more), paid vacation, 401(k) match, tuition reimbursement, social activities, monthly lunches, a robust employee recognition and talent development program to enhance your career with us.\n\u2022 Culture - We are believers in maintaining a healthy work-life balance. While we work hard and care deeply about our customers and partners, we want you to have room for your family, friends, and yourself.\n\u2022 Growth - Company growth provides unprecedented career growth. FHF\u2019s extraordinary year over year growth in revenue and new markets provides opportunity for you to establish and develop your career growth. We engage each employee to build a career plan that benefits everyone, and we have a proven record of investing in you.\n\nDiversity and Inclusion\n\nFHF is committed to building a culture that respects and embraces all walks of life, inclusive of all genders, race, culture, age, sexual orientation, and other identities. We will make accommodations when interviewing anyone with special needs.",
+            "job_is_remote": true,
+            "job_posted_at": null,
+            "job_posted_at_timestamp": null,
+            "job_posted_at_datetime_utc": null,
+            "job_location": null,
+            "job_city": null,
+            "job_state": null,
+            "job_country": null,
+            "job_latitude": null,
+            "job_longitude": null,
+            "job_benefits": null,
+            "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DlwX1SZVs11tOQE4mAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+            "job_salary": null,
+            "job_min_salary": null,
+            "job_max_salary": null,
+            "job_salary_period": null,
+            "job_highlights": {},
+            "job_onet_soc": "15113200",
+            "job_onet_job_zone": "4"
+        },
+        {
+            "job_id": "Gu_49w-pBbECNSotAAAAAA==",
+            "job_title": "Junior Level/ Entry Level Software Engineer (Remote)",
+            "employer_name": "SynergisticIT",
+            "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-UrAK1LCetSvno8PT3nMB4vJV4VdEEPN7PrgC&s=0",
+            "employer_website": null,
+            "job_publisher": "LinkedIn",
+            "job_employment_type": "Full-time",
+            "job_employment_types": [
+                "FULLTIME"
+            ],
+            "job_apply_link": "https://www.linkedin.com/jobs/view/junior-level-entry-level-software-engineer-remote-at-synergisticit-4045413414?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+            "job_apply_is_direct": false,
+            "apply_options": [
+                {
+                    "publisher": "LinkedIn",
+                    "apply_link": "https://www.linkedin.com/jobs/view/junior-level-entry-level-software-engineer-remote-at-synergisticit-4045413414?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Workvista",
+                    "apply_link": "https://workvista.online/job/entry-level-software-engineer-remote-us-89802?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Nodeskcareers.com",
+                    "apply_link": "https://nodeskcareers.com/job/junior-level-entry-level-software-engineer-remote-194892?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Winsomejobs",
+                    "apply_link": "https://winsomejobs.net/job/227266?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                }
+            ],
+            "job_description": "SYNERGISTICIT is aware that the Job Market is Challenging because of Tech Layoffs. The Job market is flooded with hundreds and thousands of laid-off Jobseekers competing with existing Jobseekers. For entry-level Job seekers to get client interviews and jobs they need to differentiate themselves by ensuring they have exceptional skills and technologies to be noticed by clients.\n\nSince 2010 we have helped Jobseekers differentiate themselves by providing clients with candidates who have the requisite skills and experience to outperform at interviews and clients. Here at SynergisticIT We just don't focus on getting you a Job we make careers. All Positions are open for all visas and US citizens We at Synergisticit understand the problem of the mismatch between employer's requirements and Employee skills and that's why since 2010 we have helped thousands of candidates get jobs at technology clients like Apple, Google, and Paypal, western union, Client, visa, Walmart labs, etc., to name a few. We have an excellent reputation with the clients. Currently, we are looking for Junior Level/ Entry Level Software Engineer (Remote)\n\nWho Should Apply Recent Computer Science/Engineering /Mathematics/Statistics or Science Graduates looking to make their careers in IT Industry We welcome candidates with all visas and citizens to apply. We assist in filing for STEM extension and also for H1b and Green card filing to Candidates\n\nWe also offer Skill enhancement programs for candidates who are either missing skills or lacking Industry/Client experience with Projects and skills. Candidates have difficulty finding jobs or cracking interviews or want to improve their skill portfolio. If they are qualified with enough skills and have hands-on project work with clients then no need for skill enhancement.\n\nCandidates can benefit from skill enhancement if they fall into the below categories.\n\nCandidates who Lack Experience or are fresher with No actual Job experience with projects with clients who Have had a break in careers Lack Technical Competency or skills being demanded by clients Different visa candidates (Like OPT/H4EAD/L2EAD) who want to get employed and settle down in the USA please check the below links to see success outcomes of our candidates https://www.synergisticit.com/candidate-outcomes/\n\nWatch the below videos of us participating in Industry events with the Top companies in Technology at Oracle Cloud World/Oracle Java One (Las Vegas) and at Gartner Data Analytics Summit (Florida)\n\nOracle Cloud World Event (OCW) Las Vegas 2022 | SynergisticIT - YouTube https://www.youtube.com/watch?v=OAFOhcGy9Z8\n\nhttps://www.youtube.com/watch?v=EmO7NrWHkLM https://www.youtube.com/watch?v=NVBU9RYZ6UI\n\nhttps://www.youtube.com/watch?v=Yy74yvjatVg SynergisticIT at Gartner Data and Analytics Summit 2023 - YouTube\n\nhttps://www.synergisticit.com/java-track/ https://www.synergisticit.com/data-science-track/ https://www.synergisticit.com/contact-us/\n\nIf you have relevant skills and industry experience, please apply if not then candidates can opt for Skill enhancement.\n\nFor getting help with interviews please visit\n\nhttps://www.synergisticit.com/interview-questions/\n\nREQUIRED SKILLS For Java /Software Programmers\n\u2022 Bachelor's degree or Master's degree in Computer Science, Computer Engineering, Electrical Engineering, Information Systems, IT\n\u2022 Highly motivated, self-learner, and technically inquisitive\n\u2022 Experience in programming language Java and understanding of the software development life cycle\n\u2022 Project work on the skills\n\u2022 Knowledge of Core Java, java script, C++ or software programming\n\u2022 Spring boot, Micro-services, Docker, Jenkins and REST API's experience\n\u2022 Excellent written and verbal communication skills\n\nFor data Science/Machine learning\n\nRequired Skills\n\u2022 Bachelor's degree or Master's degree in Computer Science, Computer Engineering, Electrical Engineering, Information Systems, IT\n\u2022 Project work on the technologies needed\n\u2022 Highly motivated, self-learner, and technically inquisitive\n\u2022 Experience in the programming language Java and understanding of the software development life cycle\n\u2022 Knowledge of Statistics, SAS, Python, Computer Vision, and data visualization tools\n\u2022 Excellent written and verbal communication skills\n\nPreferred skills: NLP, Text mining, Tableau, Power BI, Time series analysis\n\nPlease understand skills and relevant experience on real-world projects are required by clients for selection even if it's a Junior or entry-level position the additional skills and Project work with hands-on experience building projects at the client site are the only way a candidate can be picked by clients. If not having the skills or hands-on project work at the client site, candidates can opt for skill enhancement to gain the required skills and project work. No third-party candidates or c2c candidates\n\nplease only apply to the posting",
+            "job_is_remote": true,
+            "job_posted_at": null,
+            "job_posted_at_timestamp": null,
+            "job_posted_at_datetime_utc": null,
+            "job_location": "Indianapolis, IN",
+            "job_city": "Indianapolis",
+            "job_state": "Indiana",
+            "job_country": "US",
+            "job_latitude": 39.76909,
+            "job_longitude": -86.158018,
+            "job_benefits": null,
+            "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DGu_49w-pBbECNSotAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+            "job_salary": null,
+            "job_min_salary": null,
+            "job_max_salary": null,
+            "job_salary_period": null,
+            "job_highlights": {
+                "Qualifications": [
+                    "Currently, we are looking for Junior Level/ Entry Level Software Engineer (Remote)",
+                    "Who Should Apply Recent Computer Science/Engineering /Mathematics/Statistics or Science Graduates looking to make their careers in IT Industry We welcome candidates with all visas and citizens to apply",
+                    "Candidates have difficulty finding jobs or cracking interviews or want to improve their skill portfolio",
+                    "If they are qualified with enough skills and have hands-on project work with clients then no need for skill enhancement",
+                    "REQUIRED SKILLS For Java /Software Programmers",
+                    "Bachelor's degree or Master's degree in Computer Science, Computer Engineering, Electrical Engineering, Information Systems, IT",
+                    "Highly motivated, self-learner, and technically inquisitive",
+                    "Experience in programming language Java and understanding of the software development life cycle",
+                    "Project work on the skills",
+                    "Knowledge of Core Java, java script, C++ or software programming",
+                    "Spring boot, Micro-services, Docker, Jenkins and REST API's experience",
+                    "Excellent written and verbal communication skills",
+                    "For data Science/Machine learning",
+                    "Bachelor's degree or Master's degree in Computer Science, Computer Engineering, Electrical Engineering, Information Systems, IT",
+                    "Project work on the technologies needed",
+                    "Highly motivated, self-learner, and technically inquisitive",
+                    "Experience in the programming language Java and understanding of the software development life cycle",
+                    "Knowledge of Statistics, SAS, Python, Computer Vision, and data visualization tools",
+                    "Excellent written and verbal communication skills",
+                    "Please understand skills and relevant experience on real-world projects are required by clients for selection even if it's a Junior or entry-level position the additional skills and Project work with hands-on experience building projects at the client site are the only way a candidate can be picked by clients",
+                    "If not having the skills or hands-on project work at the client site, candidates can opt for skill enhancement to gain the required skills and project work"
+                ]
+            },
+            "job_onet_soc": "15113200",
+            "job_onet_job_zone": "4"
+        },
+        {
+            "job_id": "EqKJdHl1FrXrWI8LAAAAAA==",
+            "job_title": "IT Software Engineer - Remote",
+            "employer_name": "Mayo Clinic",
+            "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHFiLZFRxc2Z1fvWh_40f69cPMSudjOPwmcqte&s=0",
+            "employer_website": null,
+            "job_publisher": "ZipRecruiter",
+            "job_employment_type": "Full-time",
+            "job_employment_types": [
+                "FULLTIME"
+            ],
+            "job_apply_link": "https://www.ziprecruiter.com/c/Mayo-Clinic/Job/IT-Software-Engineer-Remote/-in-Rochester,MN?jid=9f21bc0e1c2cbf8c&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+            "job_apply_is_direct": false,
+            "apply_options": [
+                {
+                    "publisher": "ZipRecruiter",
+                    "apply_link": "https://www.ziprecruiter.com/c/Mayo-Clinic/Job/IT-Software-Engineer-Remote/-in-Rochester,MN?jid=9f21bc0e1c2cbf8c&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Indeed",
+                    "apply_link": "https://www.indeed.com/viewjob?jk=a83f43ab6b08a3bf&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "LinkedIn",
+                    "apply_link": "https://www.linkedin.com/jobs/view/it-software-engineer-remote-at-mayo-clinic-4161481971?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Glassdoor",
+                    "apply_link": "https://www.glassdoor.com/job-listing/it-software-engineer-remote-mayo-clinic-JV_IC1142638_KO0,27_KE28,39.htm?jl=1009647968181&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Dice",
+                    "apply_link": "https://www.dice.com/job-detail/adb3c4d7-fa54-44c2-ac28-c0b323742c62?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Teal",
+                    "apply_link": "https://www.tealhq.com/job/it-software-engineer-remote_99a44864-6a5b-42fe-ad2c-0153fa789034?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Karkidi",
+                    "apply_link": "https://www.karkidi.com/job-details/49259-it-software-engineer-remote-job?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "LazyApply",
+                    "apply_link": "https://lazyapply.com/jobpreview/job_b5c18f30544e1474?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                }
+            ],
+            "job_description": "Job Description\n\nMayo Clinic is seeking a Software Engineer to design and build back-end services that support our portfolio of data-centric clinical and analytic applications. These applications leverage cloud computing, big data, mobile, data science, data warehousing, machine learning using state of the art software development applications and frameworks. Our Software Engineers ensures that these cloud-based micro-services adhere to uptime and accuracy targets, are resilient, and scale as data volumes and traffic increase. They work closely with the data engineering, platform, and solutions teams to develop applications as required to benefit our practice and patients.\n\nWorks closely with the Product Owners, Product Managers, Architects to translate requirements into code. Developing services around data warehousing, big data, cloud computing, business intelligence, analytics and machine learning. Participate in DevOps, Agile, continuous development and integration frameworks. Programming in high-level languages such as Go, Python, Java etc. Work on deployment automation/configuration management with tools including but not limited to ADO, Puppet, Chef or Ansible or Azure Pipelines, CloudFormation, Terraform following a DevOps model. Ensure all appropriate documentation of processes and source code is created and maintained. Communicate effectively with peers, leaders, and customers throughout the organization. Participate in expert level troubleshooting and resolve problems through root cause analysis, data and system investigation. Continues to build knowledge of the organization, processes and customers. Performs a range of mainly straightforward assignments. Uses prescribed guidelines or policies to analyze and resolve problems. Receives a moderate level of guidance and direction.\n\nResponsibilities:\n\u2022 This person will be responsible for backend development in the Connect and Engage pod within care delivery\n\u2022 Design and build backend services that support our portfolio of data-centric and analytic applications\n\u2022 Translate requirements into working solutions with our product teams\n\u2022 Act as Mayo's FTE point of contact and SME for backend work within the Care Delivery portfolio\n\nDuring the selection process you may participate in an OnDemand (pre-recorded) interview that you can complete at your convenience. During the OnDemand interview, a question will appear on your screen, and you will have time to consider each question before responding. You will have the opportunity to re-record your answer to each question - Mayo Clinic will only see the final recording. The complete interview will be reviewed by a Mayo Clinic staff member and you will be notified of next steps.\n\nAlso, a Codility Test will be required as part of the candidate selection process.\n\nQualifications\n\nBachelor's Degree in Computer Science/Engineering or related field; Or an Associates' degree in Computer Science/Engineering or related field with an additional 2 years of experience as described below.\n\u2022 Have working knowledge and experience of Software Engineering with a minimum of internships and a minimum of 1 yr. of experience, or 2yrs of experience coding applications or services in a high-level language (C, C++, Golang, Java, C# etc.).\n\u2022 Demonstrated problem solving and time management skills.\n\u2022 Possesses strong technical aptitude for designing and implementing software solutions.\n\u2022 Experience with modern application development frameworks\n\u2022 Knowledge of professional software engineering practices & best practices for the full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations.\n\u2022 Deep hands-on technical expertise, excellent verbal and written communication skills.\n\u2022 Experience with Agile software development techniques.\n\nPreferred Qualifications:\n\u2022 Ability to use a wide variety of open-source technologies and cloud-based services.\n\u2022 Experience with Google and Azure cloud environments\n\u2022 Experience in databases, analytics, big data systems or business intelligence products\n\u2022 Experience with building high-performance, highly available and scalable distributed systems.\n\u2022 Experience developing software for healthcare related industries.\n\nAuthorization to work and remain in the United States, without necessity for Mayo Clinic sponsorship now, or in the future (for example, be a U.S. Citizen, national, or permanent resident, refugee, or asylee). Also, Mayo Clinic does not participate in the F-1 STEM OPT extension program.\n\nAbout Us\n\nWhy Mayo Clinic\n\nMayo Clinic is top-ranked in more specialties than any other care provider according to U.S. News & World Report. As we work together to put the needs of the patient first, we are also dedicated to our employees, investing in competitive compensation and comprehensive benefit plans - to take care of you and your family, now and in the future. And with continuing education and advancement opportunities at every turn, you can build a long, successful career with Mayo Clinic. You'll thrive in an environment that supports innovation, is committed to ending racism and supporting diversity, equity and inclusion, and provides the resources you need to succeed.\n\nBenefits Highlights\n\u2022 Medical: Multiple plan options.\n\u2022 Dental: Delta Dental or reimbursement account for flexible coverage.\n\u2022 Vision: Affordable plan with national network.\n\u2022 Pre-Tax Savings: HSA and FSAs for eligible expenses.\n\u2022 Retirement: Competitive retirement package to secure your future.\n\nAbout the Team\n\nJust as our reputation has spread beyond our Minnesota roots, so have our locations. Today, our employees are located at our three major campuses in Phoenix/Scottsdale, Arizona, Jacksonville, Florida, Rochester, Minnesota, and at Mayo Clinic Health System campuses throughout Midwestern communities, and at our international locations. Each Mayo Clinic location is a special place where our employees thrive in both their work and personal lives. Learn more about what each unique Mayo Clinic campus has to offer, and where your best fit is.\n\nAffirmative Action and Equal Opportunity Employer\n\nAs an Affirmative Action and Equal Opportunity Employer Mayo Clinic is committed to creating an inclusive environment that values the diversity of its employees and does not discriminate against any employee or candidate. Women, minorities, veterans, people from the LGBTQ communities and people with disabilities are strongly encouraged to apply to join our teams. Reasonable accommodations to access job openings or to apply for a job are available.",
+            "job_is_remote": true,
+            "job_posted_at": "4 days ago",
+            "job_posted_at_timestamp": 1740096000,
+            "job_posted_at_datetime_utc": "2025-02-21T00:00:00.000Z",
+            "job_location": "Rochester, MN",
+            "job_city": "Rochester",
+            "job_state": "Minnesota",
+            "job_country": "US",
+            "job_latitude": 44.0121221,
+            "job_longitude": -92.48019889999999,
+            "job_benefits": [
+                "health_insurance"
+            ],
+            "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DEqKJdHl1FrXrWI8LAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+            "job_salary": null,
+            "job_min_salary": null,
+            "job_max_salary": null,
+            "job_salary_period": null,
+            "job_highlights": {
+                "Qualifications": [
+                    "Programming in high-level languages such as Go, Python, Java etc",
+                    "Bachelor's Degree in Computer Science/Engineering or related field; Or an Associates' degree in Computer Science/Engineering or related field with an additional 2 years of experience as described below",
+                    "Have working knowledge and experience of Software Engineering with a minimum of internships and a minimum of 1 yr",
+                    "of experience, or 2yrs of experience coding applications or services in a high-level language (C, C++, Golang, Java, C# etc.)",
+                    "Demonstrated problem solving and time management skills",
+                    "Possesses strong technical aptitude for designing and implementing software solutions",
+                    "Experience with modern application development frameworks",
+                    "Knowledge of professional software engineering practices & best practices for the full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations",
+                    "Deep hands-on technical expertise, excellent verbal and written communication skills",
+                    "Experience with Agile software development techniques",
+                    "Authorization to work and remain in the United States, without necessity for Mayo Clinic sponsorship now, or in the future (for example, be a U.S. Citizen, national, or permanent resident, refugee, or asylee)"
+                ],
+                "Benefits": [
+                    "And with continuing education and advancement opportunities at every turn, you can build a long, successful career with Mayo Clinic",
+                    "Medical: Multiple plan options",
+                    "Dental: Delta Dental or reimbursement account for flexible coverage",
+                    "Vision: Affordable plan with national network",
+                    "Pre-Tax Savings: HSA and FSAs for eligible expenses",
+                    "Retirement: Competitive retirement package to secure your future"
+                ],
+                "Responsibilities": [
+                    "These applications leverage cloud computing, big data, mobile, data science, data warehousing, machine learning using state of the art software development applications and frameworks",
+                    "They work closely with the data engineering, platform, and solutions teams to develop applications as required to benefit our practice and patients",
+                    "Works closely with the Product Owners, Product Managers, Architects to translate requirements into code",
+                    "Developing services around data warehousing, big data, cloud computing, business intelligence, analytics and machine learning",
+                    "Participate in DevOps, Agile, continuous development and integration frameworks",
+                    "Work on deployment automation/configuration management with tools including but not limited to ADO, Puppet, Chef or Ansible or Azure Pipelines, CloudFormation, Terraform following a DevOps model",
+                    "Ensure all appropriate documentation of processes and source code is created and maintained",
+                    "Communicate effectively with peers, leaders, and customers throughout the organization",
+                    "Participate in expert level troubleshooting and resolve problems through root cause analysis, data and system investigation",
+                    "Continues to build knowledge of the organization, processes and customers",
+                    "Performs a range of mainly straightforward assignments",
+                    "Uses prescribed guidelines or policies to analyze and resolve problems",
+                    "Receives a moderate level of guidance and direction",
+                    "This person will be responsible for backend development in the Connect and Engage pod within care delivery",
+                    "Design and build backend services that support our portfolio of data-centric and analytic applications",
+                    "Translate requirements into working solutions with our product teams",
+                    "Act as Mayo's FTE point of contact and SME for backend work within the Care Delivery portfolio",
+                    "The complete interview will be reviewed by a Mayo Clinic staff member and you will be notified of next steps",
+                    "Also, a Codility Test will be required as part of the candidate selection process"
+                ]
+            },
+            "job_onet_soc": "15113200",
+            "job_onet_job_zone": "4"
+        },
+        {
+            "job_id": "Rp-sjvgog2IL7uH1AAAAAA==",
+            "job_title": "Senior Software Engineer (.Net) ~ 100% Remote in U.S.",
+            "employer_name": "G2HCM",
+            "employer_logo": null,
+            "employer_website": null,
+            "job_publisher": "Ladders",
+            "job_employment_type": "Full-time",
+            "job_employment_types": [
+                "FULLTIME"
+            ],
+            "job_apply_link": "https://www.theladders.com/job/senior-software-engineer-dot-net-100-remote-in-u-s-g2hcm-virtual-travel_77559812?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+            "job_apply_is_direct": false,
+            "apply_options": [
+                {
+                    "publisher": "Ladders",
+                    "apply_link": "https://www.theladders.com/job/senior-software-engineer-dot-net-100-remote-in-u-s-g2hcm-virtual-travel_77559812?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                }
+            ],
+            "job_description": "Senior Software Engineer ~ 100% Remote in U.S.\n\nThe company, who was voted in the top 100 private cloud companies in the WORLD for 4 years, is seeking a Senior Software Engineer to build reliable, scalable, and maintainable .NET services for the Platform.\n\nResponsibilities:\n\u2022 Implementing and maintaining containerized gRPC services on .NET Core with C#, and deploying these services to Kubernetes on AWS\n\u2022 Collaborating with the various teams (Product, Design, and Engineering) to design APIs that support new or enhanced product features\n\u2022 Designing and implementing migration strategies for legacy code to move existing functionality out of our monoliths, and into modern services\n\u2022 Designing and contributing features to our shared DotNetHelpers library, which provides core functionality used by all of our .NET services\n\nRequirements:\n\u2022 5+ years of experience overall writing production software\n\u2022 4+ years of experience writing production software with C# / .NET\n\u2022 Experience designing and developing APIs\n\u2022 Experience with relational data modeling, and in-depth knowledge of an RDBMS, preferably Microsoft SQL Server or Postgres\n\u2022 Experience developing applications using ASP.NET (MVC/WebForms/WebAPI)",
+            "job_is_remote": true,
+            "job_posted_at": null,
+            "job_posted_at_timestamp": null,
+            "job_posted_at_datetime_utc": null,
+            "job_location": null,
+            "job_city": null,
+            "job_state": null,
+            "job_country": null,
+            "job_latitude": null,
+            "job_longitude": null,
+            "job_benefits": null,
+            "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DRp-sjvgog2IL7uH1AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+            "job_min_salary": 121217,
+            "job_max_salary": 161623,
+            "job_salary_period": "YEAR",
+            "job_highlights": {},
+            "job_onet_soc": "15113200",
+            "job_onet_job_zone": "4"
+        },
+        {
+            "job_id": "mPFYqsZu1wlcjruyAAAAAA==",
+            "job_title": "Software Engineer II, iOS (Remote)",
+            "employer_name": "AllTrails",
+            "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzMgv4tK65hrpp9k_f-RizRrYBFWh_xrQzprlg&s=0",
+            "employer_website": null,
+            "job_publisher": "Career Vault",
+            "job_employment_type": "Full-time",
+            "job_employment_types": [
+                "FULLTIME"
+            ],
+            "job_apply_link": "https://www.careervault.io/remote/alltrails-15337/software/software-engineer-ii-ios-remote-san-francisco-5143721?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+            "job_apply_is_direct": false,
+            "apply_options": [
+                {
+                    "publisher": "Career Vault",
+                    "apply_link": "https://www.careervault.io/remote/alltrails-15337/software/software-engineer-ii-ios-remote-san-francisco-5143721?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "SimplyHired",
+                    "apply_link": "https://www.simplyhired.mx/job/r-SNFeKoBf0dMTFsMRfyMsYOTX2QVv2JwjPPMEwspUynHY-XbDyF7Q?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Remotefront.com",
+                    "apply_link": "https://www.remotefront.com/remote-jobs/etsy-software-engineer-ii-ios-listing-team-wc0qn?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                }
+            ],
+            "job_description": "About AllTrails\n\nAllTrails is the most trusted and used outdoors platform in the world. We help people explore the outdoors with hand-curated trail maps along with photos, reviews, and user recordings crowdsourced from our community of millions of registered hikers, mountain bikers, and trail runners in 150 countries. AllTrails is frequently ranked as a top-5 Health and Fitness app and has been downloaded by over 50 million people worldwide. AllTrails was selected as Apple's App of the Year in 2023!\n\nEvery day, we solve incredibly hard problems so that we can get more people outside having healthy, authentic experiences and a deeper appreciation of the outdoors. Join us!\n\nFull-time employees work remotely if outside the Bay Area, while Bay Area employees follow a hybrid schedule with one day onsite in San Francisco.\n\nSoftware Engineer II, iOS\n\nAbout AllTrails\n\nAllTrails is the most trusted and used outdoors platform in the world. We help people explore the outdoors with hand-curated trail maps along with photos, reviews, and user recordings crowdsourced from our community of millions of registered hikers, mountain bikers, and trail runners in 150 countries. AllTrails is frequently ranked as a top-5 Health and Fitness app and has been downloaded by over 50 million people worldwide.\n\nEvery day, we solve incredibly hard problems so that we can get more people outside having healthy, authentic experiences and a deeper appreciation of the outdoors. Join us!\n\nRequirements:\n\u2022 Bachelor\u2019s degree in Computer Science or equivalent\n\u2022 Demonstrable projects and results from 5+ years of developing native iOS applications\n\u2022 Significant Swift and Objective-C experience\n\u2022 Proficiency with XCode, including Auto Layout\n\u2022 Familiarity with RESTful APIs\n\u2022 Experience with CoreData, SQLite and other offline persistence technologies\n\u2022 A strong understanding of iOS concurrency techniques (Dispatch Queues, Operation Queues, etc)\n\u2022 Proficiency with Git/Github or other distributed version control systems\n\u2022 Self-motivation and a deep sense of pride in your work\n\u2022 Curiosity, humility, and open-mindedness\n\u2022 Passion about mobile technologies and AllTrails\u2019 mission to connect people to the outdoors\n\nBonus Points:\n\u2022 Mapping/GIS experience\n\u2022 Experience developing for Apple Watch\n\u2022 Experience with ARKit\n\u2022 A keen eye for interaction design and finishing touches\n\u2022 Proven ability to quickly learn new technology and processes\n\nOur Commitment to You:\n\u2022 A competitive and equitable compensation plan. This is a full-time, salaried position that includes equity.\n\u2022 Physical & mental well-being: health, dental and vision benefits + monthly stipend for wellness expenses.\n\u2022 Trail Days: No meetings first Friday of each month to go test the app and explore new trails!\n\u2022 Unlimited PTO.\n\u2022 Flexible parental leave.\n\u2022 Remote employee equipment stipend to create a great remote work environment.\n\u2022 Annual continuing education stipend.\n\u2022 Discounts on subscription and merchandise for you and your friends & family.\n\u2022 An authentic investment in you as a human being and your career as a professional.\n\n$140,000 - $180,000 a year\nA successful candidate\u2019s starting salary will be determined based on various factors such as skills, experience, training and credentials, as well as other business purposes or needs. It is not typical for a candidate to be hired at or near the top of the range of their role and compensation decisions are dependent on the factors and circumstances of each case.\n\nNature celebrates you just the way you are and so do we! At AllTrails we\u2019re passionate about nurturing an inclusive workplace that values diversity. It\u2019s no secret that companies that are diverse in background, age, gender identity, race, sexual orientation, physical or mental ability, ethnicity, and perspective are proven to be more successful. We\u2019re focused on creating an environment where everyone can do their best work and thrive.\n\nNature celebrates you just the way you are and so do we! At AllTrails we\u2019re passionate about nurturing an inclusive workplace that values diversity. It\u2019s no secret that companies that are diverse in background, age, gender identity, race, sexual orientation, physical or mental ability, ethnicity, and perspective are proven to be more successful. We\u2019re focused on creating an environment where everyone can do their best work and thrive.\n\nAllTrails participates in the E-Verify program for all remote locations.\nBy submitting my application, I acknowledge and agree to AllTrails' Job Applicant Privacy Notice.",
+            "job_is_remote": true,
+            "job_posted_at": null,
+            "job_posted_at_timestamp": null,
+            "job_posted_at_datetime_utc": null,
+            "job_location": null,
+            "job_city": null,
+            "job_state": null,
+            "job_country": null,
+            "job_latitude": null,
+            "job_longitude": null,
+            "job_benefits": null,
+            "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DmPFYqsZu1wlcjruyAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+            "job_salary": null,
+            "job_min_salary": null,
+            "job_max_salary": null,
+            "job_salary_period": null,
+            "job_highlights": {},
+            "job_onet_soc": "15113200",
+            "job_onet_job_zone": "4"
+        },
+        {
+            "job_id": "wB1hXtCdudVgre63AAAAAA==",
+            "job_title": "Cloud Software Engineer (Full Scope Poly Required) Remote / Telecommute Jobs",
+            "employer_name": "Argo Recruiting",
+            "employer_logo": null,
+            "employer_website": null,
+            "job_publisher": "Clearance Jobs",
+            "job_employment_type": "Full-time",
+            "job_employment_types": [
+                "FULLTIME"
+            ],
+            "job_apply_link": "https://www.clearancejobs.com/jobs/8018870/cloud-software-engineer-lvl-5-full-scope-poly-required?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+            "job_apply_is_direct": true,
+            "apply_options": [
+                {
+                    "publisher": "Clearance Jobs",
+                    "apply_link": "https://www.clearancejobs.com/jobs/8018870/cloud-software-engineer-lvl-5-full-scope-poly-required?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": true
+                },
+                {
+                    "publisher": "Teal",
+                    "apply_link": "https://www.tealhq.com/job/mid-level-hardware-design-engineer-250-k-yr-ts-sci-fs-poly-remote-telecommute-jobs_25227073-5d96-4468-953a-6423b07d50f5?page=15&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                }
+            ],
+            "job_description": "Job Title: Cloud Software Engineer (Full Scope Poly Required)\n\nJoin Argo \u2013 Connecting Top Talent with Leading Organizations\n\nAt Argo, we specialize in linking highly skilled professionals with premier organizations. Our mission is to empower career success while fostering an inclusive and diverse work environment. Unlike many staffing agencies, Argo boasts a full-cycle recruiting team that excels at placing top-tier talent, particularly within the Software and Systems Engineering domain.\n\nWith a 90% success rate in placing diverse candidates, we ensure the best match for both job seekers and organizations. If you're an experienced Cloud Software Engineer with an active Full Scope Poly clearance, we encourage you to apply for this exciting opportunity.\n\nPosition: Cloud Software Engineer \u2013 Level 5\n\nThis role involves designing, implementing, integrating, and testing cloud-native service offerings in hybrid cloud environments. The ideal candidate will have expertise in containerization, orchestration, automation, and cloud security.\n\nPlease Note: Candidates must currently hold an active Full Scope Poly clearance to be considered for this position.\n\nKey Technologies:\n\nAWS, Terraform, Go, Python (PyTest), Java 18, Kubernetes, Drools\n\nJSON, XML, Git, GitLab, CI/CD, Terraform Enterprise, Vault, Linux\n\nIAM Policy & Permission Boundaries, RMF, JUnit5, Cucumber\n\nKey Responsibilities:\n\nDevelop and maintain cloud applications deployed in Kubernetes environments (primarily AWS EKS).\n\nCreate and manage IAM Policies, Roles, and Permission Boundaries across multiple AWS Organizations.\n\nBuild and maintain Python-based applications using PyTest and Cucumber OR Java-based applications using JUnit5.\n\nDevelop, publish, and maintain reusable Terraform modules for efficient infrastructure provisioning.\n\nUse Terraform Enterprise and Vault to manage Infrastructure-as-Code (IaaS) and secure sensitive data.\n\nMentor teammates, conduct technical reviews, and provide design and architectural improvements.\n\nTroubleshoot complex cloud environments, pushing code changes upstream to open-source projects when needed.\n\nSupport operational environments as the highest tier of technical expertise.\n\nAutomate PKI certificate creation and deployment across cloud vendors, OpenStack, and container platforms.\n\nQualifications & Experience:\n\n16+ years of experience in object-oriented programming (Java, Python, C++, or Go) OR\n\n16+ years of experience integrating open-source/commercial software with automation scripting\n\nDemonstrated experience in Linux-based software development\n\n5+ years of experience with containerization technologies (Docker)\n\n8+ years of experience deploying applications to Kubernetes or similar orchestration platforms\n\nActive Full Scope Poly clearance (Mandatory)\n\nSecret Clearance (Required)\n\nPreferred Certifications (Substitutable for Experience):\n\nCertified Kubernetes Application Developer (CKAD)\n\nCertified Kubernetes Administrator (CKA)\n\nOpen Source Project Maintainer Status\n\nWhy Work with Argo?\n\nJoin a team dedicated to career growth, diversity, and ethical recruiting.\n\nWork with top-tier government and private sector clients.\n\nBenefit from personalized career support through Argo\u2019s full-cycle recruitment approach.\n\nIf you're ready to take your career to the next level, apply today!\n\nFor more details about Argo, visit ByArgo.com",
+            "job_is_remote": true,
+            "job_posted_at": "17 hours ago",
+            "job_posted_at_timestamp": 1740398400,
+            "job_posted_at_datetime_utc": "2025-02-24T12:00:00.000Z",
+            "job_location": "Washington, DC",
+            "job_city": "Washington",
+            "job_state": "District of Columbia",
+            "job_country": "US",
+            "job_latitude": 38.9071923,
+            "job_longitude": -77.0368707,
+            "job_benefits": null,
+            "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DwB1hXtCdudVgre63AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+            "job_salary": null,
+            "job_min_salary": null,
+            "job_max_salary": null,
+            "job_salary_period": null,
+            "job_highlights": {
+                "Qualifications": [
+                    "Please Note: Candidates must currently hold an active Full Scope Poly clearance to be considered for this position",
+                    "AWS, Terraform, Go, Python (PyTest), Java 18, Kubernetes, Drools",
+                    "IAM Policy & Permission Boundaries, RMF, JUnit5, Cucumber",
+                    "16+ years of experience in object-oriented programming (Java, Python, C++, or Go) OR",
+                    "16+ years of experience integrating open-source/commercial software with automation scripting",
+                    "Demonstrated experience in Linux-based software development",
+                    "5+ years of experience with containerization technologies (Docker)",
+                    "8+ years of experience deploying applications to Kubernetes or similar orchestration platforms",
+                    "Active Full Scope Poly clearance (Mandatory)",
+                    "Secret Clearance (Required)",
+                    "Certified Kubernetes Application Developer (CKAD)",
+                    "Certified Kubernetes Administrator (CKA)",
+                    "Open Source Project Maintainer Status"
+                ],
+                "Benefits": [
+                    "JSON, XML, Git, GitLab, CI/CD, Terraform Enterprise, Vault, Linux"
+                ],
+                "Responsibilities": [
+                    "This role involves designing, implementing, integrating, and testing cloud-native service offerings in hybrid cloud environments",
+                    "The ideal candidate will have expertise in containerization, orchestration, automation, and cloud security",
+                    "Develop and maintain cloud applications deployed in Kubernetes environments (primarily AWS EKS)",
+                    "Create and manage IAM Policies, Roles, and Permission Boundaries across multiple AWS Organizations",
+                    "Build and maintain Python-based applications using PyTest and Cucumber OR Java-based applications using JUnit5",
+                    "Develop, publish, and maintain reusable Terraform modules for efficient infrastructure provisioning",
+                    "Use Terraform Enterprise and Vault to manage Infrastructure-as-Code (IaaS) and secure sensitive data",
+                    "Mentor teammates, conduct technical reviews, and provide design and architectural improvements",
+                    "Troubleshoot complex cloud environments, pushing code changes upstream to open-source projects when needed",
+                    "Support operational environments as the highest tier of technical expertise",
+                    "Automate PKI certificate creation and deployment across cloud vendors, OpenStack, and container platforms"
+                ]
+            },
+            "job_onet_soc": "15113300",
+            "job_onet_job_zone": "4"
+        }
+    ]
+}
