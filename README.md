@@ -17,7 +17,6 @@ The **AI-Powered Resume Job Matcher** is a command-line interface (CLI) applicat
 - **Python** – Core programming language
 - **Scikit-Learn** – Machine Learning models ( Random Forest)
 - **NLP (Natural Language Processing)** – Text vectorization using **TF-IDF**
-- **Cosine Similarity** – Job matching based on similarity scores
 - **pdfplumber** – Extracting text from PDF resumes
 - **Pickle** – Model persistence for classification
 - **Tkinter** – GUI for file browsing (optional)
