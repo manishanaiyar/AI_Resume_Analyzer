@@ -22,27 +22,7 @@ The **AI-Powered Resume Job Matcher** is a command-line interface (CLI) applicat
 - **Tkinter** – GUI for file browsing (optional)
 - **Requests** – Fetching job listings via API
 
----
 
-## Installation & Setup
-### Prerequisites
-Ensure you have **Python 3.7+** installed on your system. Verify it with:
-```sh
-python --version
-```
-
-### Clone the Repository
-```sh
-git clone https://github.com/yourusername/AI-Resume-Job-Matcher.git
-cd AI-Resume-Job-Matcher
-```
-
-### Install Dependencies
-```sh
-pip install -r requirements.txt
-```
-
----
 
 ## Usage Guide
 ### Step 1: Run the CLI Application
@@ -87,10 +67,6 @@ python main.py
 
 ---
 
-## Future Enhancements
-🌐 **Web-Based Interface** – Upgrade to a Flask/React-based web application.  
-🤖 **AI-Powered Job Matching** – Implement deep learning for more accurate matching.  
-📱 **Mobile App Version** – Extend the project for Android/iOS platforms.  
 
 ## Job Listings Output
 
