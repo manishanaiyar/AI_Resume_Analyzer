@@ -63,7 +63,7 @@ python main.py
 📂 **matcher.py** – Uses Machine Learning models to classify resumes.  
 📂 **job_scraper.py** – Fetches job listings from an external API.  
 📂 **main.py** – Orchestrates the CLI flow, from upload to job search.  
-📂 **models/** – Contains the pre-trained **Naïve Bayes** and **Random Forest** classifiers.  
+📂 **models/** – Contains the pre-trained  **Random Forest** classifiers.  
 
 ---
 
