@@ -1,6 +1,7 @@
 import os
 import time
 from job_scraper import search_jobs  # Import the fixed function
+from matcher import classify_resume # Import classify_resume from matcher.py
 
 def clear_screen():
     """Clear the terminal screen for better readability."""
@@ -9,29 +10,38 @@ def clear_screen():
 def display_banner():
     """Display the application banner."""
     print("=" * 42)
-    print("         🚀 AI RESUME ANALYZER 🚀         ")
+    print("           🚀 AI RESUME ANALYZER 🚀          ")
     print("=" * 42)
     print("\n✅ System Ready!\n")
 
 def upload_resume():
-    """Simulate resume upload (manual or file browsing)."""
+    """Processes resume and predicts the job category using matcher.py."""
     print("\n📂 RESUME UPLOAD")
     print("-" * 42)
-    print("1️⃣  Enter the file name manually")
-    print("2️⃣  Press [Enter] to browse files")
+    print("Please ensure your resume is a PDF file in the same directory.")
     print("-" * 42)
 
-    file_name = input("\n📝 Enter resume file name (or press Enter to select): ").strip()
+    file_name = input("\n📝 Enter resume file name (e.g., my_resume.pdf): ").strip()
     
     if not file_name:
         print("⚠️ No file selected. Exiting...")
         exit()
     
-    print("\n🔍 Analyzing Resume...")
-    time.sleep(1.5)  # Simulate processing time
+    # Check if the file exists before attempting to classify
+    if not os.path.exists(file_name):
+        print(f"❌ Error: File '{file_name}' not found! Please ensure the file is in the correct directory.")
+        exit()
 
-    # Simulate job category detection
-    job_category = "INFORMATION TECHNOLOGY"
+    print(f"\n🔍 Analyzing Resume: {file_name}...")
+    time.sleep(1.5)  # Simulate a brief processing time
+
+    #  Call classify_resume from matcher.py
+    job_category = classify_resume(file_name)
+
+    if job_category is None:
+        print("❌ Failed to classify resume. Exiting.")
+        exit()
+
     print(f"\n📌 Job Category Identified: 🖥️ {job_category}")
 
     return job_category
@@ -63,11 +73,13 @@ def main():
     clear_screen()
     display_banner()
 
-    # Step 1: Resume Upload
+    # Step 1: Resume Upload and Classification
     job_category = upload_resume()
 
     # Step 2: Fetch Job Listings
     print("\n🔎 Searching for relevant job openings...")
+    # Add a small delay for better UX
+    time.sleep(1) 
     jobs = search_jobs(job_category)
 
     # Step 3: Display Jobs
